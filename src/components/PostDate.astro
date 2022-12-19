@@ -1,0 +1,13 @@
+---
+const { dateString } = Astro.props;
+import { parseISO, format } from 'date-fns'
+---
+<time class="travel-date" datetime={dateString}>{ format(parseISO(dateString), 'dd LLL yyyy') }</time>
+
+<style>
+  .travel-date {
+    color: #666;
+    margin: 0;
+    padding: 0;
+  }
+</style>
