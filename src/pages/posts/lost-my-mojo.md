@@ -17,9 +17,11 @@ Was a little concerned that the weather would be rubbish after seeing a downpour
 Arriving at Grand Caribe the apartment was amazing. I'm normally quite a budget traveller, not really seeing much value in splashing out too much for a bed, so this was well outside my comfort zone. But man, was it nice!
 
 ![Two bikes on the beach](/travel/images/belize-bike-beach.jpg) 
+
 *The beach highway was pretty much the only way to navigate*
 
 ![Boat on the water](/travel/images/belize-coastal-express.jpg)
+
 *Not a bad way to commute to the island*
 
 Basically, we spend two weeks just swimming, eating, drinking, diving and wandering around the island. It was a much needed period of bliss. Met some very cool people throughout and I've got nothing but fond memories of the trip. My only regret is the weather on the mainland was so horrible that we elected not to go exploring some of the Mayan ruins. That's something I would have been very keen on!
@@ -39,6 +41,7 @@ Sadly, Nana passed away, not quite making it to Christmas. It's kind of bitter-s
 Spent a little bit of time in Welly, and caught up with an old DCSB Colleague. All the Brothers and sisters headed up to Mangawhai Heads with Dad & Meldy. We had a fun day canoeing, swimming, eating and just mucking about on the beach.
 
 ![Horse running](/travel/images/beau.jpg)
+
 *Great to see Beau, Dad's old racehorse, still going strong*
 
 ### Part Deux - Australia
@@ -56,6 +59,7 @@ After Sydney though was Thailand... and wow! Bangkok was busy. I'm not sure I wa
 Thailand was just a temporary stop. I'd been able to change my flights so I stopped over here, but it was just so I could get to Vietnam. Fortunately, I did have a couple of weeks to check the place out. But after a couple of days, I'd had enough of Bangkok and wanted some beach action, as well as some of my favourite dish "Ka na moo grob" (crispy pork with chinese brocolli).
 
 ![Thai crispy pork dish](/travel/images/kanamoogrob.jpg)
+
 *I'd probably live on just this dish if I could*
 
 I'd been recommended the bus down to Koh Samui, so I ended up buying a slightly overpriced ticket and heading south. The bus was possibly the worst journey I've ever made, and that's saying something. Avoid at all costs! Definitely better to fly or catch the train.
@@ -79,6 +83,7 @@ I'd met D in Auckland. We'd chatted a bit about an upcoming Europe bike trip and
 We rode out of Hanoi towards Sa Pa. The scenery was amazing and I was gutted that the only camera I had, was my shitty little 2 Megapixel phone from 2006. I had a nice portable Sony Camera, but that gave up the ghost literally as soon as I landed. It wasn't until I got back to Hanoi that I bit the bullet and bought a new Canon Powershot. Just wish I'd done it before Sa Pa.
 
 ![Sa Pa, Vietnam](/travel/images/vietnam-sapa.jpg)
+
 *My poor little phone couldn't do Sa Pa's scenery justice. It was gorgeous!*
 
 Both D and I had some small offs. D's was probably a combination of jetlag and looking back checking on Rodney. Mine was not looking at the surface of the road carefully enough and running over a strip of Diesel. I pretty much totalled my bike though. But all-up was only $400 worth to replace. D's repair bill was a lot less, as just a few hundred meters from where he crashed, was a little motorbike mechanic. Who had all the spares needed to get us back on the road again.
@@ -92,6 +97,7 @@ After returning to Hanoi, I exchanged my rather broken bike for something not qu
 D came back to escort me once I'd almost reached Halong bay. I was rather grateful to get into bed and made a quick recovery over the next day or so. The three of us rented a boat to do the typical tourist cruising. I wasn't overly fussed about Halong bay though. It was nice, but more polluted than I liked and doing a typical tourist circuit doesn't really interest me.
 
 ![Cave entrance](/travel/images/vietnam-cave.jpg)
+
 *Cave mouth at one of the tourist spots at Halong Bay*
 
 To get away from the not so pleasant bits, we ended up finding another hotel <a rel="nofollow" href="https://goo.gl/maps/G3MxdaBTYuM2">Viethouse Lodge</a> on Tuan Chau, a nearby island. This island was so cool! There were tons of construction projects that look like they were abandoned. It was a big boys playground! We made friends with the Aussie/German/Vietnamese girl who ran the hotel with her parents and had the most amazing Chinese dinner. Also went exploring afterwards in an abandoned rotunda. I was sad to leave Viethouse, but we were headed southwards to tick off a few more places on our list.
@@ -99,6 +105,7 @@ To get away from the not so pleasant bits, we ended up finding another hotel <a 
 We all flew down to Da Nang. Another awesome hotel, we organised bikes so we could tour up to Hue and down to Hoi An. Met some students in Da Nang as well, who ended up showing us around all of the local sites, which was a lot of fun. Rodney headed back to Hanoi, while D & I headed down to Na Trang by train, then to Ho Chi Minh City a few days later.
 
 ![Selfie riding a scooter](/travel/images/vietnam-selfie.jpg)
+
 *Obligatory selfie while riding the coastal road north of Da Nang*
 
 I was still feeling really rough after my food poisoning, so ended up flying back to Thailand earlier than I'd planned in order to get a full medical check-up. Was worried that I'd picked up some sort of parasite or something, but no. Just regular food poisoning. While in Bangkok, I relaxed my 'on-a-budget' rule and splashed out for something five star, quiet, relaxing and away from the seedy part of town. The Chatrium Hotel Riverside was just the ticket. I spent a few days doing nothing more than swimming, reading and relaxing. Was lovely!

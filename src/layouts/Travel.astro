@@ -13,9 +13,11 @@ import PostDate from '../components/PostDate.astro';
 		<title>{frontmatter.title}</title>
 	</head>
 	<body>
-		<h1>{frontmatter.title}</h1>
-		{ frontmatter.date && <PostDate dateString={frontmatter.date} /> }
-		<slot />
+		<main>
+			<h1>{frontmatter.title}</h1>
+			{ frontmatter.date && <PostDate dateString={frontmatter.date} /> }
+			<slot />
+		</main>
 	</body>
 </html>
 <style is:global>
@@ -27,8 +29,27 @@ import PostDate from '../components/PostDate.astro';
 		font-family: system-ui, sans-serif;
 		background-color: #F6F6F6;
 	}
-	code {
-		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-			Bitstream Vera Sans Mono, Courier New, monospace;
+	main {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 120ch;
+	}
+	h1 {
+		font-size: 2.5rem;
+		font-weight: 800;
+		margin: 0;
+	}
+	h2{
+		font-size: 2rem;
+		font-weight: 600;
+		margin: 0;
+	}
+	h3 {
+		font-size: 1.5rem;
+		font-weight: 600;
+		margin: 0;
+	}
+	p{
+		margin-bottom: 1rem;
 	}
 </style>

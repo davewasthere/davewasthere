@@ -18,6 +18,7 @@ This bike trip was much like the others, a few weeks riding around the Alps, alt
 I've taken multiple different routes on bike trips. But this time we went south down through west and central France to get to Millau viaduct. As a piece of engineering, that bridge is so impressive!
 
 ![Millau viaduct](/travel/images/2012-millau.jpg)
+
 *Camped underneath the bridge, having our first campfire of the trip... quickly became a theme.*
 
 After Millau, we made a bee-line for Nice & Monaco, then hit the Grande Route des Alpes. It really was a pretty incredible trip. Had some amazing campfires, food, swims, some nice wine and just biked the most incredible roads. I've always loved France and Switzerland, but this time it was nice to see Liechtenstein and Austria. Managed to have a great weather for two and a bit weeks, but after a couple of water-drenched days, I was starting to feel pretty over the whole camping routine. So I parted with the boys and went west, into clearer weather and visiting friends in Switzerland.
@@ -36,6 +37,7 @@ Something I've really enjoyed over the years, is the [Small Is festival](http://
 Apart from the Olympics, Small Is festival, and my never-ended/very-slow-going home renovations, the only thing of note I had planned prior to heading back down under, was another friend's wedding, this time in Bavaria.
 
 ![Wedding in Bavaria](/travel/images/2012-paul-nadine.jpg)
+
 *Stunning couple, in an absolutely breaktaking environment...*
 
 I'd managed to make it back in time for Paul's stag do, and Kev, Sam & I had gone to visit them on the last bike trip. But since Paul moved from Cheltenham, I've really seen too little of him. Life moves on like that though. Sometimes the planet seems so small, and other times, it's just too big.

@@ -2,7 +2,7 @@
 layout: ../../layouts/Travel.astro
 title: Dave in Dubai
 description: All of a sudden, I'm finding myself in the Middle East.
-date: '1999-12-11'
+date: "1999-12-11"
 ---
 
 <!-- start body -->
@@ -29,7 +29,7 @@ he died his sons got into the Beach-Hotel Development market. Now you have to
 go a fair way to find a spot you don't have to pay for...<br>          
                   
               
-             <br><img src="images006/jumeira_beach_hotel.jpg"><br>The 
+<br><img src="images006/jumeira_beach_hotel.jpg"><br>The 
 Jumeira Beach Tower hotel (left), and the Jumeira Beach hotel (right). The 
 building on the right is <strong>BIG</strong> , yet it is 
 dwarfed by the Jumeira Beach Tower hotel. The light show at night is 
@@ -78,10 +78,10 @@ like a maniac, with utter disregard for human life.<br>I've been driving around 
 it's been great. I'd gone for 6 months without driving at all (apart from once 
 in London). So it was a real boost once I started here.<br>   
               
-          Still, the benefits of independence, may 
+Still, the benefits of independence, may 
 be overrated as most drivers   
               
-          here are attempting 
+here are attempting 
 to kill everyone else, so the rest of the time I either taxi or walk.</p>
 <p>  It's not really possible to walk around Dubai without 
 hearing the mating-call of lurking taxis. Just because I'm white, and it's warm, 
@@ -131,7 +131,7 @@ going on with the Nimrods. (Interesting stuff if you are ex-firm)<br> I'm glad
 I finally got to see a Mig 29.&nbsp;It would have to be one of my all-time favourite 
 aircraft.<br><br><img src="images006/f16_taxiing.jpg"><br>         
               
-            F-16 about to 
+F-16 about to 
 go out and do it's stuff. It was DAMN loud on 
 takeoff.</p>
 <p><img src="images006/mig29.jpg"><br>A Russian MIG 29. 
@@ -197,9 +197,4 @@ Ramadan here in Dubai.<br>So until next time...</p>
 <p>E&nbsp;noho ra (or Haere ra, I'm not sure which one applies with web site 
 visitors...)</p>
 
-
 <!-- end body -->
-
-
- 
-  

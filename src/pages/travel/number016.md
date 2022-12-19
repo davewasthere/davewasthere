@@ -8,22 +8,22 @@ date: '2006-12-26'
 <!-- start body -->
 
 
-    <p>
-        First thing about this travelogue. I've been pretty slack at updating (as per usual
-        to be honest) that this one had to cover an entire year.</p>
-    
-    <ul>
-        <li><a href="#Starting in the Philippines">Starting in the Philippines</a> </li>
-        <li><a href="#Racing in Madrid with FHM">Racing in Madrid with FHM</a> </li>
-        <li><a href="#Back to Dubai">Back to Dubai</a> </li>
-        <li><a href="#Tori Amos">Tori Amos</a> </li>
-        <li><a href="#Switzerland for work">Switzerland for work</a> </li>
-        <li><a href="#Money? I don't need no steenking money!">Money? I don't need no steenking
-            money!</a></li></ul>
-    <p>
-        I've also been a bit slack at completing this as Liezl and I split up after six
-        years together. I'm still figuring out whether I should be upset or happy about
-        it. But it has been one of the reasons I've put this off for longer than I should have. Such is life...</p>
+<p>
+    First thing about this travelogue. I've been pretty slack at updating (as per usual
+    to be honest) that this one had to cover an entire year.</p>
+
+<ul>
+    <li><a href="#Starting in the Philippines">Starting in the Philippines</a> </li>
+    <li><a href="#Racing in Madrid with FHM">Racing in Madrid with FHM</a> </li>
+    <li><a href="#Back to Dubai">Back to Dubai</a> </li>
+    <li><a href="#Tori Amos">Tori Amos</a> </li>
+    <li><a href="#Switzerland for work">Switzerland for work</a> </li>
+    <li><a href="#Money? I don't need no steenking money!">Money? I don't need no steenking
+        money!</a></li></ul>
+<p>
+    I've also been a bit slack at completing this as Liezl and I split up after six
+    years together. I'm still figuring out whether I should be upset or happy about
+    it. But it has been one of the reasons I've put this off for longer than I should have. Such is life...</p>
 <h2>
     <a name="Starting in the Philippines">Starting in the Philippines</a></h2>
 <p>
@@ -150,102 +150,102 @@ date: '2006-12-26'
         similar distance another time. (He wasn't happy, but I can be stubborn)</p>
         
         
-    <h2>
-        <a name="Racing in Madrid with FHM">Racing in Madrid with FHM</a></h2>
-    <p>
-        On a whim, I entered for a competition for Sports Driver of the Year in the UK edition of FHM.</p>
-    <p>
-        It wasn't until after I'd entered that I realised I'd entered after the closing
-        date, so I never really thought much more about it until I received a phone call
-        at work. Apparently I was short-listed for the trip to Madrid to races Vauxhalls
-        at Jarama race track. After quick rush around work to make sure I could get leave
-        for the following week I was a confirmed entrant, off to Madrid a few days later.</p>
-    <p>
-        I met a couple of models dressed in FHM gears at the Airport and followed them to
-        the meeting point. After checking in and going through to air-side, I met up with
-        a bunch of guys who were looking through the latest magazine trying to spot the
-        guys who were featured as competitors. Turns out none of those were actually competitors
-        (possibly FHM just made them up since they've got quite aggressive publishing deadlines).</p>
-    <p>
-        Short flight to Madrid (I sat next to the beautiful and funny Tillie on the way
-        out... had a good wee chat), and off to the hotel for dinner. For some reason the
-        restaurant though we only wanted to eat meat. We had forty guys (and other crew)
-        who were served meat, but no vegetables... because someone had forgotten to order
-        something to go with meat. Apparently the hotel thought we were a carnivore convention
-        or something and didn't question the odd menu choice. They managed to rustle up
-        some chips as well, but that was it for the night.</p>
-    <p>
-        We had a day of doing four different driving events. I had a pretty shaky start
-        (with almost the worst time) when I stopped at one point thinking I'd completely
-        missed a turning, but managed to pull it back to finish up 4th at the end of the
-        first heat. Doing a handbrake parking manouver between two parked cars was the most
-        fun for me.&nbsp;</p>
-    <p>
-        That night we went to <a rel="nofollow" href="http://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium">
-            Bernabeu stadium</a> to watch Real Madrid win against Real Beatis
-        3-1.</p>
-    <p>
-        At the end of the second heat, out of the 39 competitors (one didn't make it because
-        he couldn't get the time off), I gained a place to come 3rd overall, which was good
-        enough to make the final.</p>
-    <p>
-        The final stage was just 4 driving events. And I've got to admit, I drove pretty
-        poorly. Couldn't get to grips with the reverse selector in the Astra. My fault for
-        driving automatic left-hookers for the past 7 years perhaps? The only event I got
-        a good score in was the entertainment portion (a sneaky 5th event) where you had
-        to entertain the trackside totty. It's only thanks to the Kiwi haka that I manage
-        to pull anything out of that one too. Also, our scores were reset so it was only
-        down to the days events.</p>
-    <p>
-        That said, the event couldn't have been won by a nicer guy. And the funniest thing
-        is, he almost didn't. Another guy actually drove the pants off everyone. Only he
-        disgusted the girls with his seedy poem during the entertainment section. If he'd
-        done something different he would have been a clear leader. (40 of us guys were
-        pissing ourselves laughing though, it was funny as anything)</p>
-    <p>
-        Our final night in Madrid was a yummy dinner and drinks at Bernabeu again. A few
-        presentations and speeches etc... And it was all over.</p>
-    <p>
-        I had a great time and loved doing burnouts in the VXR Monaro. And in a way, I'm
-        glad I didn't end up on the podium with a shot at driving touring cars. It's something
-        I'd have loved to have had the opportunity to do maybe 10 years ago, but I don't
-        have the energy/passion/drive for it now.</p>
-    <p>
-        The funniest moment of the whole trip for me was when we were in the bus and going under
-        a bridge while Nicky (the organiser) was talking. Nicky asked if we could still
-        hear her on the intercom as if the bridge would interfere with it somehow. Legend!</p>
-    <h2>
-        <a name="Back to Dubai">Back to Dubai</a></h2>
-    <p>
-        Liezl and I headed out to Dubai in April. The call of Hummous and Lamb was just
-        too strong. (I was still gutted about having food poisoning and not being able to
-        eat last time I was here)</p>
-    <p>
-        We had some fun at the airport with Liezl's visa. Turns out Ethihad wouldn't let
-        Liezl board, as her visa was for Dubai and not for Abu Dhabi and if you fly Ethihad,
-        you actually clear immigration at Abu Dhabi, which meant that her visa for Dubai
-        was useless. Fortunately I managed to convince them to let us board without a visa
-        for Abu Dhabi, but that meant I had to buy Liezl a ticket on a plane from Abu Dhabi
-        to Dubai. We only had a few minutes to organise that in Abu Dhabi, but it all went
-        okay. (Apart from Liezl trying to take too much alchohol into Dubai and getting
-        it confiscated)</p>
-    <p>
-        Dubai has an insane number of vehicles on the road now. When I lived here 5 years
-        ago there must have been half as much traffic or less. It's absolutely crazy now.
-        I can't get over how long it takes to get from point to point now. It looks like
-        the place has been a victim of it's own success. Also, I'm not sure it's possible,
-        but the drivers have gotten more aggressive too. I had one local lady, sitting behind
-        me in her massive 4WD, shooing me off the road because I was in her way. The fact
-        that it was bumper to bumper traffic didn't seem to register to her.</p>
-    <p>
-        Met up with Will (A mate I used to work with) at Scarletts for several pints. He
-        might have some grey hair, but still looks like he could out-surf anyone 20 years
-        younger. He's driving a <a rel="nofollow" href="http://www.tvr-eng.co.uk/">TVR</a> around now,
-        which is a hell of a car. Not, perhaps, the most practical for heading down to <a rel="nofollow"
-   href="http://www.spinneys.com">Spinneys</a> to do the shopping in, but definitely
-        the thing for blatting out to <a rel="nofollow" href="http://en.wikipedia.org/wiki/Jebel_Hafeet">
-    Jebel
-    Hafeet
+<h2>
+    <a name="Racing in Madrid with FHM">Racing in Madrid with FHM</a></h2>
+<p>
+    On a whim, I entered for a competition for Sports Driver of the Year in the UK edition of FHM.</p>
+<p>
+    It wasn't until after I'd entered that I realised I'd entered after the closing
+    date, so I never really thought much more about it until I received a phone call
+    at work. Apparently I was short-listed for the trip to Madrid to races Vauxhalls
+    at Jarama race track. After quick rush around work to make sure I could get leave
+    for the following week I was a confirmed entrant, off to Madrid a few days later.</p>
+<p>
+    I met a couple of models dressed in FHM gears at the Airport and followed them to
+    the meeting point. After checking in and going through to air-side, I met up with
+    a bunch of guys who were looking through the latest magazine trying to spot the
+    guys who were featured as competitors. Turns out none of those were actually competitors
+    (possibly FHM just made them up since they've got quite aggressive publishing deadlines).</p>
+<p>
+    Short flight to Madrid (I sat next to the beautiful and funny Tillie on the way
+    out... had a good wee chat), and off to the hotel for dinner. For some reason the
+    restaurant though we only wanted to eat meat. We had forty guys (and other crew)
+    who were served meat, but no vegetables... because someone had forgotten to order
+    something to go with meat. Apparently the hotel thought we were a carnivore convention
+    or something and didn't question the odd menu choice. They managed to rustle up
+    some chips as well, but that was it for the night.</p>
+<p>
+    We had a day of doing four different driving events. I had a pretty shaky start
+    (with almost the worst time) when I stopped at one point thinking I'd completely
+    missed a turning, but managed to pull it back to finish up 4th at the end of the
+    first heat. Doing a handbrake parking manouver between two parked cars was the most
+    fun for me.&nbsp;</p>
+<p>
+    That night we went to <a rel="nofollow" href="http://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium">
+        Bernabeu stadium</a> to watch Real Madrid win against Real Beatis
+    3-1.</p>
+<p>
+    At the end of the second heat, out of the 39 competitors (one didn't make it because
+    he couldn't get the time off), I gained a place to come 3rd overall, which was good
+    enough to make the final.</p>
+<p>
+    The final stage was just 4 driving events. And I've got to admit, I drove pretty
+    poorly. Couldn't get to grips with the reverse selector in the Astra. My fault for
+    driving automatic left-hookers for the past 7 years perhaps? The only event I got
+    a good score in was the entertainment portion (a sneaky 5th event) where you had
+    to entertain the trackside totty. It's only thanks to the Kiwi haka that I manage
+    to pull anything out of that one too. Also, our scores were reset so it was only
+    down to the days events.</p>
+<p>
+    That said, the event couldn't have been won by a nicer guy. And the funniest thing
+    is, he almost didn't. Another guy actually drove the pants off everyone. Only he
+    disgusted the girls with his seedy poem during the entertainment section. If he'd
+    done something different he would have been a clear leader. (40 of us guys were
+    pissing ourselves laughing though, it was funny as anything)</p>
+<p>
+    Our final night in Madrid was a yummy dinner and drinks at Bernabeu again. A few
+    presentations and speeches etc... And it was all over.</p>
+<p>
+    I had a great time and loved doing burnouts in the VXR Monaro. And in a way, I'm
+    glad I didn't end up on the podium with a shot at driving touring cars. It's something
+    I'd have loved to have had the opportunity to do maybe 10 years ago, but I don't
+    have the energy/passion/drive for it now.</p>
+<p>
+    The funniest moment of the whole trip for me was when we were in the bus and going under
+    a bridge while Nicky (the organiser) was talking. Nicky asked if we could still
+    hear her on the intercom as if the bridge would interfere with it somehow. Legend!</p>
+<h2>
+    <a name="Back to Dubai">Back to Dubai</a></h2>
+<p>
+    Liezl and I headed out to Dubai in April. The call of Hummous and Lamb was just
+    too strong. (I was still gutted about having food poisoning and not being able to
+    eat last time I was here)</p>
+<p>
+    We had some fun at the airport with Liezl's visa. Turns out Ethihad wouldn't let
+    Liezl board, as her visa was for Dubai and not for Abu Dhabi and if you fly Ethihad,
+    you actually clear immigration at Abu Dhabi, which meant that her visa for Dubai
+    was useless. Fortunately I managed to convince them to let us board without a visa
+    for Abu Dhabi, but that meant I had to buy Liezl a ticket on a plane from Abu Dhabi
+    to Dubai. We only had a few minutes to organise that in Abu Dhabi, but it all went
+    okay. (Apart from Liezl trying to take too much alchohol into Dubai and getting
+    it confiscated)</p>
+<p>
+    Dubai has an insane number of vehicles on the road now. When I lived here 5 years
+    ago there must have been half as much traffic or less. It's absolutely crazy now.
+    I can't get over how long it takes to get from point to point now. It looks like
+    the place has been a victim of it's own success. Also, I'm not sure it's possible,
+    but the drivers have gotten more aggressive too. I had one local lady, sitting behind
+    me in her massive 4WD, shooing me off the road because I was in her way. The fact
+    that it was bumper to bumper traffic didn't seem to register to her.</p>
+<p>
+    Met up with Will (A mate I used to work with) at Scarletts for several pints. He
+    might have some grey hair, but still looks like he could out-surf anyone 20 years
+    younger. He's driving a <a rel="nofollow" href="http://www.tvr-eng.co.uk/">TVR</a> around now,
+    which is a hell of a car. Not, perhaps, the most practical for heading down to <a rel="nofollow"
+href="http://www.spinneys.com">Spinneys</a> to do the shopping in, but definitely
+    the thing for blatting out to <a rel="nofollow" href="http://en.wikipedia.org/wiki/Jebel_Hafeet">
+Jebel
+Hafeet
 </a> and back!</p>
     <p>
         We also went out to the beach a fair bit. It's funny to see the Pakistan &amp; Indian
@@ -556,8 +556,8 @@ date: '2006-12-26'
         We had one more trip to the Philippines at the end of the year (which went over
         New Years as well), but this travelogue has gotten long enough!</p>
     
-    <p>Thanks for reading, and I'll catch you next time.<br />
-        Dave.</p>
+<p>Thanks for reading, and I'll catch you next time.<br />
+Dave.</p>
 
 
 <!-- end body -->

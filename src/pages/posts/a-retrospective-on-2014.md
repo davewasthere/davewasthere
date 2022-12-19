@@ -4,6 +4,7 @@ title: A retrospective on 2014
 headerImage: /travel/images/2014-rural-aus.jpg
 date: '2015-01-01'
 description: I migrated to Australia in 2014. Here's a retrospective on the year.
+published: false
 ---
 
 It can be hard writing these things retrospectively. Mostly I cherry-pick a few photos that aren't completely awful and write a few words around them. While it might be better to just keep up with them a little more regularly, I'd kind of lost interest in blogging for a while.

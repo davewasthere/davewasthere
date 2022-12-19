@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import PostDate from '../components/PostDate.astro';
 import Card from '../components/Card.astro';
 
 const allTravel = await Astro.glob('./travel/*.md');
@@ -17,13 +16,7 @@ posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.d
 		{ posts.filter(p => p.frontmatter.published !== false).map((post) => {
 			
 			return (
-				<article>
-					<PostDate dateString={post.frontmatter.date} /> <a href={post.url}>{post.frontmatter.title}</a>
-					<p>{post.frontmatter.description}</p>
-					
-					<Card href={post.url} title={post.frontmatter.title} body={post.frontmatter.description}></Card>
-
-				</article>
+				<Card date={post.frontmatter.date} href={post.url} title={post.frontmatter.title} body={post.frontmatter.description}></Card>
 			)
 		}) }
 
@@ -31,11 +24,7 @@ posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.d
 		{ allTravel.map((post) => {
 			
 			return (
-				<article>
-					<PostDate dateString={post.frontmatter.date} /> <a href={post.url}>{post.frontmatter.title}</a>
-					<p>{post.frontmatter.description}</p>
-					
-				</article>
+				<Card date={post.frontmatter.date} href={post.url} title={post.frontmatter.title} body={post.frontmatter.description}></Card>
 			)
 		}) }
 
@@ -47,10 +36,10 @@ posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.d
 	main {
 		margin: auto;
 		padding: 1.5rem;
-		max-width: 60ch;
+		max-width: 90ch;
 	}
 	h1 {
-		font-size: 3rem;
+		font-size: 2.5rem;
 		font-weight: 800;
 		margin: 0;
 	}
