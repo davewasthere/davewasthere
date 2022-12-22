@@ -24,16 +24,15 @@ const { href, title, body, date } = Astro.props;
 	</a>
 </div>
 <style>
+
 	.link-card {
-		display: flex;
 		background-color: #eee;
-		border-radius: 5px;
 		margin-bottom: 1rem;
-		border: solid 1px #ddd;
-		padding: 0.75rem;
 	}
 
 	.link-card > a {
+		display: block;
+		padding: 0.75rem;
 		text-decoration: none;
 		color: #111;
 	}	
@@ -46,7 +45,7 @@ const { href, title, body, date } = Astro.props;
 	}
 
 	.link-card:hover {
-		border-color: #666;
+		background-color: #ddd;
 	}
 	
 	p {

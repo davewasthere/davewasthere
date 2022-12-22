@@ -25,6 +25,11 @@ const prevPost = posts[currentIndex + 1];
 		<title>{frontmatter.title}</title>
 	</head>
 	<body>
+		<header>
+			<img class="profile" src="/images/profile.png" />
+			<h1>Davewasthere</h1>
+			<a href="/">Home</a>
+		</header>
 		<main>
 			<h1>{frontmatter.title}</h1>
 			{ frontmatter.date && <PostDate dateString={frontmatter.date} /> }
@@ -47,10 +52,28 @@ const prevPost = posts[currentIndex + 1];
 		font-family: system-ui, -apple-system,"Segoe UI",Roboto,"Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
 		background-color: #F6F6F6;
 	}
-	main, footer{
+	main, footer, header{
 		max-width: 800px;
 		margin: 0 auto;
 		padding: 1rem;
+	}
+	header {
+		text-align: center;
+	}
+	header h1 {
+		margin: 0;
+	}
+	header a {
+		text-decoration: none;
+		color: #333;
+		border: solid 1px #eee;
+		max-width: 50%;
+		margin: 0 auto;
+	}
+	header img {
+		border-radius: 50%;
+		width: 80px;
+		height: 80px;
 	}
 	img {
 		max-width: 100%;
@@ -59,22 +82,29 @@ const prevPost = posts[currentIndex + 1];
 		display: flex;
 		justify-content: space-between;
 	}
-	.prevNext a {
+	.prevNext a, header a {
 		display: block;
 		padding: 1rem;
 		text-decoration: none;
 		color: #333;
-	}
-	.prevNext a:hover {
-		text-decoration: underline;
 		background-color: #eee;
+	}
+	.prevNext a:hover, header a:hover {
+		text-decoration: underline;
+		background-color: #ddd;
 	}
 	.prevNext > div {
 		width: 50%;
-		border: solid 1px #eee;
+	}
+	.prevNext > div > a {
+		background-color: #eee;
 		text-align: center;
 	}
 	.nextPost {
 		text-align: right;
+		border-left: 0.25rem solid #f6f6f6;
+	}
+	.prevPost {
+		border-right: 0.25rem solid #f6f6f6;
 	}
 </style>
