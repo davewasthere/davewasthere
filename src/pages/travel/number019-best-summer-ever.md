@@ -16,7 +16,7 @@ date: '2008-03-01'
     trip. Just too much work to do. But the few days I took off for the wedding were 
     so enjoyable. </p>
 
-<p><img src="https://i.imgur.com/cDsus.jpg" alt="Mike and Brenda get married" /></p>
+<p><img src="/travel/mb-wedding.jpg" alt="Mike and Brenda get married" /></p>
 
 <p>One of the funniest events was the luminescent algae in the water at night. That 
     entertained all of us for a couple of nights! Even stepping on wet sand and 

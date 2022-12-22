@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: Descent into Winter
 date: '2016-03-26'
 published: false

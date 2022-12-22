@@ -1,9 +1,9 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: 2012 - The latter half
 headerImage: /travel/images/2012-awesome-lake.jpg
 description: Turning 40, a European bike tour and an amazing wedding
-date: '2013-01-01'
+date: '2012-12-31'
 published: true
 ---
 ## Dubai

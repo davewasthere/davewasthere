@@ -2,33 +2,24 @@
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 
-const allTravel = await Astro.glob('./travel/*.md');
-allTravel.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
-
+const travels = await Astro.glob('./travel/*.md');
 const posts = await Astro.glob('./posts/*.md');
+
+posts.push(...travels);
 posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
 ---
 
 <Layout title="Dave Beer's travel site.">
-	<main>
+	<header>
+		<img class="profile" src="/images/profile.png" />
 		<h1>Davewasthere</h1>
-
+	</header>
+	<main>
 		{ posts.filter(p => p.frontmatter.published !== false).map((post) => {
-			
 			return (
 				<Card date={post.frontmatter.date} href={post.url} title={post.frontmatter.title} body={post.frontmatter.description}></Card>
 			)
 		}) }
-
-
-		{ allTravel.map((post) => {
-			
-			return (
-				<Card date={post.frontmatter.date} href={post.url} title={post.frontmatter.title} body={post.frontmatter.description}></Card>
-			)
-		}) }
-
-
 	</main>
 </Layout>
 
@@ -41,6 +32,18 @@ posts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.d
 	h1 {
 		font-size: 2.5rem;
 		font-weight: 800;
+		margin: 0;
+	}
+	header {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 90ch;
+		text-align: center;
+	}
+	.profile {
+		border-radius: 50%;
+		width: 150px;
+		height: 150px;
 		margin: 0;
 	}
 </style>

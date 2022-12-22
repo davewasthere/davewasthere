@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: A retrospective on 2014
 headerImage: /travel/images/2014-rural-aus.jpg
 date: '2015-01-01'

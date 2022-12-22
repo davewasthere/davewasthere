@@ -1,8 +1,8 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: Yet another year. A look back at 2013
 headerImage: /travel/images/2013-auckland-sunset.jpg
-date: '2014-01-01'
+date: '2013-12-31'
 description: West Coast USA, Germany, and I head down under for good?
 ---
 

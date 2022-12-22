@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: Lost my Mojo
 headerImage: /travel/images/bangkok-river.jpg
 description: It's time for a mid-life crisis - tour

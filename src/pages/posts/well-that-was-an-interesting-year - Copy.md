@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Post.astro
+layout: ../../layouts/Travel.astro
 title: Well, 2015 was an interesting year
 published: false
 date: '2016-01-10'
