@@ -7,7 +7,9 @@ date: '1999-09-26'
 
 <!-- start body -->
 
-<p align=center><img src="images005/eclipse.jpg"></p>
+<p>
+<img src="/travel/images005/eclipse.jpg">
+</p>
 
 <p>
 Well, the eclipse came and went, yet the world didn't end.<br>
@@ -27,10 +29,10 @@ display showing some of their skills. The powered hang glider-bombers were the
 crowd favourite. Personally I liked the amphibious flamethrower vehicles. There 
 was a good fight scene, with someone thrown off a tower into the lake below. 
 Also, plenty of pyrotechnics that came off pretty well.</p>
-<p><img src="images005/alton_towers_explosion.jpg"><br><strong>The platform, after the Royal Marine Commandos 
+<p><img src="/travel/images005/alton_towers_explosion.jpg"><br><strong>The platform, after the Royal Marine Commandos 
 had 'bombed' it.</strong></p>
 <p>
-<img src="images005/logflume.jpg"><br><strong>Us on the log flume, 
+<img src="/travel/images005/logflume.jpg"><br><strong>Us on the log flume, 
 and no, I'm not picking my nose. It was meant to be a Doctor evil pose. But I 
 don't seem to be able to pull it off... DOH!<br>(dunno what sort of face Mike O 
 was pulling...)</strong></p>
@@ -67,7 +69,7 @@ exams. That's what I want to learn. My current research is UML and object
 oriented design.</p>
 <p>
 <p>
-<img src="images005/a_and_a.jpg"><br><strong>Arran and Ariane in Kensington 
+<img src="/travel/images005/a_and_a.jpg"><br><strong>Arran and Ariane in Kensington 
 park</strong>
 </p>
 <p>Arn' &amp; Arran have headed off on their trip through India. It was really 

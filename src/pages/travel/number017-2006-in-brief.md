@@ -101,7 +101,7 @@ figured that was all we'd get to see. But we ended up finding a great spot (agai
 - massively off-piste) away from all the lights, and by that time, the northern
 lights looked unmistakeably spectacular! The photos <i>almost</i> do
 the lights justice, but seeing them for real, dancing and moving.. Just incredible.</p>
-<p><img src="images017/northern-lights.jpg" alt="The northen lights while out cross country skiing" /></p>
+<p><img src="/travel/images017/northern-lights.jpg" alt="The northen lights while out cross country skiing" /></p>
 <p>
     We spent the next few hours taking photos and just being a little stupid with it.
     Was so amazing. Think we got back at something like 4am. Time just flew!</p>

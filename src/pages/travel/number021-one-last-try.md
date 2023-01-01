@@ -24,7 +24,7 @@ date: '2009-07-01'
     turn down the opportunity of going kayaking with them for a week around Kenepuru 
     and Pelorus sounds.</p>
 <p>
-<img src="images021/the-german-and-the-kiwi-ruapehu.jpg" alt="The German and the Kiwi on the desert road near Ruapehu" /><img src="images021/kayaking-pelorus.jpg"alt="Me kayaking along Pelorus sounds" /></p>
+<img src="/travel/images021/the-german-and-the-kiwi-ruapehu.jpg" alt="The German and the Kiwi on the desert road near Ruapehu" /><img src="/travel/images021/kayaking-pelorus.jpg"alt="Me kayaking along Pelorus sounds" /></p>
 <p>The DoC campsites were lovely spots. And we were fairly lucky with the weather. 
     Got a bit threatening the day we paddled to the Portage (where Mike and Brenda 
     got married). But the worst we got were some sizeable swells. Sure, it made it 
@@ -35,12 +35,12 @@ date: '2009-07-01'
     the slower pace of life, managing to get back up to Cape Reinga &amp; Te Paki with 
     Sarah and Lily.</p>
 <p>
-<img src="images021/te-paki-stream.jpg" /></p>
+<img src="/travel/images021/te-paki-stream.jpg" /></p>
 <p>I&#39;ve got a few regrets from that trip, but one of them was a painting I&#39;d seen in 
     a gallery. I don&#39;t often see paintings I really like, but this one was something 
     special.</p>
 <p>
-<img src="images021/wendy-clifford.jpg" /></p>
+<img src="/travel/images021/wendy-clifford.jpg" /></p>
 <p>I wish I&#39;d bought it at the time. I think the only reason I didn&#39;t, was something 
     to do with the frame. It was handmade and looked a bit rough, but I really do 
     regret not getting it now.</p>
@@ -65,7 +65,7 @@ date: '2009-07-01'
     I honestly couldn&#39;t imagine anywhere else that I&#39;d rather have been.</p>
 <p>
 
-<img src="images021/boracay.jpg" /></p>
+<img src="/travel/images021/boracay.jpg" /></p>
 <p>After Boracay, we headed back to Mabitac briefly before heading away to Panglao, 
     Bohol. We&#39;d been offloaded on the way to Boracay, so we&#39;d been given 
     complementary flights (but had to use them within 12 months) so we decided to go 
@@ -103,7 +103,7 @@ date: '2009-07-01'
     memory was seeing a family asleep in a bicycle sidecar on the side of a very 
     busy main road..</p>
 <p>
-<img src="images021/pinoy-family.jpg"  /></p>
+<img src="/travel/images021/pinoy-family.jpg"  /></p>
 <p>Very very sad...</p>
 <h2>What about a package holiday?</h2>
 <p>For my birthday, I found a &#39;Too good to turn down&#39; deal in Turkey. Almost booked 

@@ -17,7 +17,7 @@ Speedo do 200k. (that's 5 nines rolling over folks.) The much heralded Y2k bug d
 <p><strong>Arrival in Auckland<br></strong>Cool, Caught up with Dad and Tony when I arrived in Auckland. They met me at the Airport which was great. I did keep them waiting for ages after Cathay had some problem with the baggage trolley. (1/2 hour wait for our luggage after coming through customs)</p>
 <p>I also saw my nieces. Man, kids grow up quick don't they? Tamara certainly changed a lot after just seven months. And I've only just recently
 acquired a second niece, Haylee Monroe. (I hope that's spelt right...)</p>
-<p><img alt="Tamara when I left NZ" src="images007/tamara.jpg" > <img alt="Tamara after I arrived back home" src="images007/tamara_02.jpg"> <img alt="Tamara's little sister Haylee" src="images007/haylee.jpg"></p>
+<p><img alt="Tamara when I left NZ" src="/travel/images007/tamara.jpg" > <img alt="Tamara after I arrived back home" src="/travel/images007/tamara_02.jpg"> <img alt="Tamara's little sister Haylee" src="/travel/images007/haylee.jpg"></p>
 <p><strong>The Wedding<br></strong>I've said it a couple of times already, but I figured that since I didn't make it to Mum's first wedding (hyuk!) I'd better go to her second. It racks the total of siblings up to 9. That's pretty frightening!</p>
 <p>It was also pretty nice to see all the family there. It's been a <strong>long</strong> time since we've had 
 everybody in one place. Made it a lot easier for me too. That was half of the 
@@ -26,10 +26,10 @@ rallies in one hit. Saves a lot of travelling! :-)</p>
 quickly booked a flight. I decided to head down before Christmas so I could pop 
 in and see some of the DCSB folks before they headed off on holiday.</p>
 <p>
-<img alt="Hamish drinking that very nice coffee that DCSB have..." src="images007/hamish_at_dcsb.jpg">
-<img alt="Hey Barry!" src="images007/barry.jpg">
-<img alt="Put it away Chris!" src="images007/tocky.jpg" >
-<img alt="Ahhh... The morning game of pool" src="images007/playing_pool.jpg" >
+<img alt="Hamish drinking that very nice coffee that DCSB have..." src="/travel/images007/hamish_at_dcsb.jpg">
+<img alt="Hey Barry!" src="/travel/images007/barry.jpg">
+<img alt="Put it away Chris!" src="/travel/images007/tocky.jpg" >
+<img alt="Ahhh... The morning game of pool" src="/travel/images007/playing_pool.jpg" >
 </p>
 <p>I thought it was a little ironic that I can travel around the planet without incident (lets not mention being
 <a href="number001.html">detained in Zabaikalsk </a> for now), but one tiny flight to Wellington and my bags end up 
@@ -42,7 +42,7 @@ deliver it pretty promptly at lunchtime the next day. Still...</p>
 &amp; I went for a tramp up to the top of Belmont Trig in Wellington. Quickly 
 dispersing any thoughts of how fit I was!<BR>Iain and I arranged to climb Mount 
 Ruapehu for New Years too. (Thanks to Sandra for that cool idea)</p>
-<p><img alt="The Three Trampers" src="images007/three_hikers.jpg" ><img alt="Belmont Trig (Wellington)" src="images007/belmont_trig.jpg" ></p>
+<p><img alt="The Three Trampers" src="/travel/images007/three_hikers.jpg" ><img alt="Belmont Trig (Wellington)" src="/travel/images007/belmont_trig.jpg" ></p>
 <p><strong>Christmas with Beer. (Mmmm... Beer)<br></strong>Yep, the Beer clan got together for Christmas, so 
 I managed to see almost everyone at one do. Woohoo!<strong></strong></p>
 <p><strong>Party like it's 1999?<br></strong>Where did <em>that</em> year go? I 
@@ -60,14 +60,14 @@ terribly pleasant, but I'm thoroughly glad we did it. I was a little slow
 going... probably less fit than I thought I was, and all those Christmas dinners 
 were taking their toll!</p>
 <p>
-<img alt="New Years revellers on Ruapehu's summit" src="images007/ruapehu_group.jpg">
-<img alt="Safe in the dome shelter" src="images007/ruapehu_dome.jpg">
-<img alt="Me having a munch on some scorched almonds" src="images007/me_eating_scorched_almonds.jpg"> 
+<img alt="New Years revellers on Ruapehu's summit" src="/travel/images007/ruapehu_group.jpg">
+<img alt="Safe in the dome shelter" src="/travel/images007/ruapehu_dome.jpg">
+<img alt="Me having a munch on some scorched almonds" src="/travel/images007/me_eating_scorched_almonds.jpg"> 
 </p>
 <p>A&nbsp;big 'Hi' to Matt &amp; Yakob. (you know who you 
 are!)<BR>           
 Figured out that riddle yet Yakob?</p>
-<p><img alt="Aaron and Dave - silly buggers" src="images007/aaron_and_davie_at_golf.jpg"><br>My cousin Aaron and I playing golf at Papakura. Well, actually... more playing the fool after playing golf. We took 2 
+<p><img alt="Aaron and Dave - silly buggers" src="/travel/images007/aaron_and_davie_at_golf.jpg"><br>My cousin Aaron and I playing golf at Papakura. Well, actually... more playing the fool after playing golf. We took 2 
 and a half hours to do the front nine, but did the back nine in a little under 40 minutes. (Yes we ran the back nine.) The funny thing is, we played better... I ended up with 82, and Aaron with 91. He decimated me at Manukau the next day though. (by one point, but he won four pints of beer. Oooohhh, was I slutted!)</p>
 <p><strong>Back to Dubai<br></strong>It was a pretty decent break, but I have to work 
 to pay the bills. :-)<BR>Another stop in Hong Kong, and I found a nice price on 

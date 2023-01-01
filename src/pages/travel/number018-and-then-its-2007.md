@@ -24,7 +24,7 @@ poker nights, track days, football, hiking etc... </p>
 Poland to live. His brother had come over and they&#39;d gone up to Scotland to buy 
 a new BMW motorbike. (A little cheaper up there) Their plan was to head to the 
 Alps for a week or so before heading home. </p>
-<p><img src="images018/alps.jpg" /></p>
+<p><img src="/travel/images018/alps.jpg" /></p>
 <p>I quickly arranged some leave and joined them on my Viffer. Got caught in a 
 torrential downpour on the way to Folkstone. Was completely soaked. My goretex 
 outer helped old off the water, but we were literally riding through a few 
@@ -76,7 +76,7 @@ there in ages</a>. Stopping off first in Melbourne catching up with several frie
 (I still love Melbourne just as much as before) then to Auckland to stay with my 
 brother Mark. Good times!</p>
 
-<p><img src="images018/arran-brendon.jpg" /></p>
+<p><img src="/travel/images018/arran-brendon.jpg" /></p>
 
 
 

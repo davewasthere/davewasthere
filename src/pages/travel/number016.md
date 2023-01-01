@@ -354,7 +354,7 @@ Hafeet
         my plans) and booked a bunch of places. I also put a whole bunch of waypoints on
         my GPS too. (They'd come in very handy later on!)</p>
     <p>
-        <img alt="Map of France/Spain trip 2005" src="images016/france_spain_trip.jpg" /><br />
+        <img alt="Map of France/Spain trip 2005" src="/travel/images016/france_spain_trip.jpg" /><br />
         <strong>The route travelled!</strong></p>
     <p>
         My first stop after the ferry was to head to Troyes for a couple of days. It's a

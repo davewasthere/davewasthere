@@ -73,7 +73,7 @@ writing about the other stuff, so here's what I've got to date.</p>
 (actually, now that I'm editing this a few months later, I can say yes, 
 we did manage to afford some furniture. But we had to stop eating to do 
 so...)</p>
-<p><img src="images013/our_pad.jpg" ><br>
+<p><img src="/travel/images013/our_pad.jpg" ><br>
 	<b>Our humble abode. Our flat in in the top left corner.</b></p>
 <p>I don't often convert back to Kiwi dollars. Not after four years 
 	abroad. You just wouldn't buy anything here if you did keep comparing. But 
@@ -127,7 +127,7 @@ English. :-)</p>
 		beach</a>. We stayed in our little bungalow, a minutes walk from the beach. 
 	Getting into the holiday mood with nothing but beach, swimming, sun, food and 
 	the occasional San Miguel.</p>
-<p><img src="images013/view_from_room.jpg" ><br>
+<p><img src="/travel/images013/view_from_room.jpg" ><br>
 	<b>The view from our little hut. The beach is about a one minute walk down the 
 		path.</b></p>
 <p>
@@ -147,7 +147,7 @@ English. :-)</p>
 	under the wheels of almost every vehicle that passed. (No such thing 
 	as the SPCA here I think)</p>
 <p>
-	<img border="0" src="images013/another_hard_day_at_the_office.jpg" ><br>
+	<img border="0" src="/travel/images013/another_hard_day_at_the_office.jpg" ><br>
 	<b>Our own little beach. Was a lovely cool 30-ish degrees.</b></p>
 <p>
 	We caught one boat out to a 'private' beach with about 10 other 
@@ -160,7 +160,7 @@ English. :-)</p>
 	wound up and told everyone to piss off. I never quite got to the 
 	point of telling them to bugger off, but it was pretty annoying.</p>
 <p>
-	<img border="0" src="images013/who_gets_the_cold_glass.jpg" ><br>
+	<img border="0" src="/travel/images013/who_gets_the_cold_glass.jpg" ><br>
 	<b>This was funny. I always got the chilled pint and Liezl got the warm wine glass. 
 		Even though we both drank San Miguel.</b></p>
 <p>
@@ -194,7 +194,7 @@ English. :-)</p>
 	horde of children along the way. (Not that they paid me much 
 	attention)</p>
 <p>
-	<img border="0" src="images013/preparing_for_lunch.jpg" ><br>
+	<img border="0" src="/travel/images013/preparing_for_lunch.jpg" ><br>
 	<b>Two of Yey's Nieces. Sandrine and Citadel. We are just getting ready to eat.</b></p>
 <p>
 	We spent just over a week in Mabitac. Loved it. There is a 17th 
@@ -220,7 +220,7 @@ English. :-)</p>
 	displayed inside and the ladies sit around and gossip, while the 
 	men-folk gamble at mahjong.</p>
 <p>
-	<img border="0" src="images013/boys_fishing_for_lunch.jpg" ><br>
+	<img border="0" src="/travel/images013/boys_fishing_for_lunch.jpg" ><br>
 	<b>I don't know. Shopping for lunch? Didn't see them catch anything, but sometimes 
 		that isn't the point</b></p>
 <p>
@@ -325,7 +325,7 @@ Philippines and Dubai soon.</p>
 	German... doesn't matter. They'll take what's best out of the lot, 
 	and do it even better.</p>
 <p>
-	<img border="0" src="images013/davie_and_liezl_in_geneva.jpg" ><br>
+	<img border="0" src="/travel/images013/davie_and_liezl_in_geneva.jpg" ><br>
 	<b>Wandering around Geneva.</b></p>
 <h2>
 	<a name="Is there a beach in Bournemouth">Is there a beach in 
@@ -345,7 +345,7 @@ Philippines and Dubai soon.</p>
 	Anyhow, a group of us decided to go for a burn to the lovely coastal 
 	town of Bournemouth for a picnic.</p>
 <p>
-	<img border="0" src="images013/and_they_call_this_a_beach.jpg" ><br>
+	<img border="0" src="/travel/images013/and_they_call_this_a_beach.jpg" ><br>
 	<b>Having a wee picnic at Boltons Bench.</b></p>
 <p>
 	The trip down was a laugh. Originally, we were going to hire a van, 
@@ -369,7 +369,7 @@ Philippines and Dubai soon.</p>
 	strip of sand. I guess seeing beaches like this really make me think 
 	how spoilt for choice we are in NZ.</p>
 <p>
-	<img border="0" src="images013/the_bride_of_frankenstein.jpg" ><br>
+	<img border="0" src="/travel/images013/the_bride_of_frankenstein.jpg" ><br>
 	<b>Liezl looking pretty scary herself, lying on top of Mary Wollstone Shelley's 
 		grave - in Bournemouth. (Author of Frankenstein)</b></p>
 <h2><a name="Yes, Yes! Ive finished my Comms Skills!">Yes, Yes! I've 
@@ -378,7 +378,7 @@ finished my Comms Skills!</a></h2>
 Wigram with will believe it, but I finally finished my 1040 
 Communications Skills. Ergo, I now have my NZCE. Talk about 
 procrastination.</p>
-<p><img border="0" src="images013/nzce.jpg" ></p>
+<p><img border="0" src="/travel/images013/nzce.jpg" ></p>
 <p>So there it is... The result of over 12 years of effort. HA! Did I 
 really start the thing back in 1990? My goodness!</p>
 <p>I'd better hope I never try and do a degree. How will I ever finish 

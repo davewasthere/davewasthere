@@ -14,7 +14,7 @@ Things have moved on a little since my last post. Basically I'm quite settled he
 </p>
 
 <h2>My New Flat</h2>
-<p><img src="images004/my_flat.jpg" alt="My new flat"></p>
+<p><img src="/travel/images004/my_flat.jpg" alt="My new flat"></p>
 
 <p>
     The flat situation worked out pretty well. I'm living in Ealing, which is about 1/2 hour tube from Oxford circus (including delays...). I'm flatting with a New Zealand girl (Tania), and two guys, one South African (Greg), the other from Zimbabwe (Brendan).<br>
@@ -25,7 +25,7 @@ Things have moved on a little since my last post. Basically I'm quite settled he
     time I'm almost wetting myself listening to them. Bladdy funny!
 </p>
 <p>
-    <img alt="Our cat" src="images004/our_cat.jpg">
+    <img alt="Our cat" src="/travel/images004/our_cat.jpg">
     <br>
     This is
     our cat. He comes along every day or so for some food. He's not really ours,
@@ -51,14 +51,14 @@ paid £350ea ($1000Nz) to go to the cricket final against Aussie.<br>
 <br><strong>I hate 
 the UK Banking system!!</strong><br>
 The banking system over here does seem a bit antiquated after being in NZ. I've had no end of troubles trying to get my accounts sussed. HSBC didn't open me the sort of account I had applied for. But I had no way of finding that out until I actually arrived here. They also sent all of my details to New Zealand after I had asked them to hold them in London.<br>
-</p><p><img src="images004/cradle_v.gif" alt="my cool toy"></p><p>
+</p><p><img src="/travel/images004/cradle_v.gif" alt="my cool toy"></p><p>
     All
     of this email (well, the text at least) has been composed on my new toy. A palm
     V. (I still format it in Visual Interdev) As a condition of accepting my new job I requested this as a small bribe. It's worth about £300, and is a lot nicer than my old one. (Kewl huh?)<br>
     <br>
     It doesn't really do any more, it's just slimmer, has more memory, is nicer to use and is a bit faster. Looks cool too.<br>
 </p><strong>      </strong>
-<p><img alt="The london dungeon" src="images004/dungeon.jpg" ></p>
+<p><img alt="The london dungeon" src="/travel/images004/dungeon.jpg" ></p>
 <p style="font-weight: bold;">Mad Axe-welding Brenda threatens two innocent 
 tourists.</p>
 <p>Went to the London Dungeon with Mike &amp; Brenda on Saturday. It was 
@@ -88,12 +88,12 @@ throwing around Frisbees, rugby balls, playing hacky sack and generally fooling
 around. For two days afterwards I was stiff and sore. Not used to using my legs like you do 
 in hacky sack. (majorly sore bum!)</p>
 <p><strong>Everyone at Holland park. </strong><br>(Arn' is the blond in black, 
-standing up and holding something white.)<br><img alt="Arianes party in Holland park" src="images004/arianes_party.jpg" ></p>
+standing up and holding something white.)<br><img alt="Arianes party in Holland park" src="/travel/images004/arianes_party.jpg" ></p>
 <p>That's it from me really. Perhaps when I start travelling 
 again things will be a bit more interesting. But for now I'm busy, happy and not 
 too fussed about travelling just yet.</p>
 <p>So anyway, take care, and I will spot you all in the next update.</p>
-<p><img src="images004/davekick.gif"></p>
+<p><img src="/travel/images004/davekick.gif"></p>
 <p>Until then...<br>Ciao!</p>
 
 

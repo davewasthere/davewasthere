@@ -7,7 +7,7 @@ date: '2004-11-03'
 
 <!-- start body -->
 
-<p><img src="images014/hilights.jpg"></p>
+<p><img src="/travel/images014/hilights.jpg"></p>
 <p>
     About time I wrote another one of these. As usual it takes me ages to complete
     them. This one must be a new record in procrastination!
@@ -38,7 +38,7 @@ date: '2004-11-03'
 </ul>
 <h2><a name="greece"></a>Those yummy gyros in Greece</h2>
 <p>
-    <img src="images014/lovers_on_the_beach.jpg"><br>
+    <img src="/travel/images014/lovers_on_the_beach.jpg"><br>
     <strong>Clothes? We don't need no stinking clothes...</strong>
 </p>
 <h3>Last minute trip</h3>
@@ -116,7 +116,7 @@ date: '2004-11-03'
     the life.
 </p>
 <p>
-    <img src="images014/temple_of_apollo.jpg"><br>
+    <img src="/travel/images014/temple_of_apollo.jpg"><br>
     <strong>Here&nbsp;I am&nbsp;standing in the (unfinished) Temple of Apollo</strong>
 </p>
 <p>
@@ -171,7 +171,7 @@ date: '2004-11-03'
     whatever it was it worked as the Danish team won.
 </p>
 <p>
-    <img src="images014/beckham_vs_denmark.jpg"><br>
+    <img src="/travel/images014/beckham_vs_denmark.jpg"><br>
     <strong>None other than Mister Posh Spice at the England vs. Denmark friendly</strong>
 </p>
 <p>
@@ -186,7 +186,7 @@ date: '2004-11-03'
     to be back home. Having been away for so many years has really made me
     appreciate how good we Kiwis have it.
 </p>
-<p><img src="images014/sky_city.jpg"></p>
+<p><img src="/travel/images014/sky_city.jpg"></p>
 <p>
     One of our first stops was somewhere nice to eat. So we headed down to
     Auckland's viaduct harbour and marina, which was recently (circa 2000) given a
@@ -215,7 +215,7 @@ date: '2004-11-03'
     thirds of the people on my list.
 </p>
 <p>
-    <img src="images014/all_the_boys.jpg"><br>
+    <img src="/travel/images014/all_the_boys.jpg"><br>
     <strong>The Brotherhood of Beer</strong>
 </p>
 <p>
@@ -225,7 +225,7 @@ date: '2004-11-03'
     were hoping to spend a bit of time on the beach.
 </p>
 <p>
-    <img src="images014/world_famous_mangonui_fish_shop.jpg"><br>
+    <img src="/travel/images014/world_famous_mangonui_fish_shop.jpg"><br>
     <strong>Manganui Fish shop - World famous in New Zealand</strong>
 </p>
 <p>
@@ -239,7 +239,7 @@ date: '2004-11-03'
     in Gloucestershire)
 </p>
 <p>
-    <img src="images014/the_car_i_learnt_to_drive_i.jpg"><br>
+    <img src="/travel/images014/the_car_i_learnt_to_drive_i.jpg"><br>
     <strong>Greg's old Ford Prefect. The car I first learned to drive at age 11.</strong>
 </p>
 <p>
@@ -253,7 +253,7 @@ date: '2004-11-03'
     alcohol. That is something that is just unheard of here in the UK.
 </p>
 <p>
-    <img src="images014/bbq_overlooking_wellington_.jpg"><br>
+    <img src="/travel/images014/bbq_overlooking_wellington_.jpg"><br>
     <strong>Just a couple of wines before tucking into the Barbie</strong>
 </p>
 <p>
@@ -270,7 +270,7 @@ date: '2004-11-03'
     organs respectively)
 </p>
 <p>
-    <img src="images014/puke_puke_rd.jpg"><br>
+    <img src="/travel/images014/puke_puke_rd.jpg"><br>
     <strong>Funny if you are English-speaking, hilarious if you speak Tagalog.</strong>
 </p>
 <p>
@@ -297,7 +297,7 @@ date: '2004-11-03'
 </p>
 <h2><a name="Tis the season once more"></a>Tis the season once more</h2>
 <p>
-    <img src="images014/liezls_new_boyfriend.jpg" ><br>
+    <img src="/travel/images014/liezls_new_boyfriend.jpg" ><br>
     <strong>It was a choice of kissing me or the pig...</strong>
 </p>
 <p>
@@ -308,7 +308,7 @@ date: '2004-11-03'
         outdoor barbeques, swimming and the beach...)
 </p>
 <p>
-    <img src="images014/arnell_aj_and_aaron.jpg"><br>
+    <img src="/travel/images014/arnell_aj_and_aaron.jpg"><br>
     <strong>Aaron... The happiest baby in the world (constantly)</strong>
 </p>
 <p>

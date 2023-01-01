@@ -9,7 +9,7 @@ date: '2000-07-15'
 
 
 <p><a href="number008.html" onmouseout="dave.src=dave1.src;"
-   onmouseover="dave.src=dave2.src;" target="_self"><img id="dave" name="dave" src="images008/dave1.gif" alt="Hi there"></a><br/>Point your mouse over me to see the CLP
+   onmouseover="dave.src=dave2.src;" target="_self"><img id="dave" name="dave" src="/travel/images008/dave1.gif" alt="Hi there"></a><br/>Point your mouse over me to see the CLP
 salute</p>
 
 <h5>Dubai for a while</h5>
@@ -22,7 +22,7 @@ draw going now and again.</p>
 
 <h5>Saab for sale</h5>
 
-<p><img src="images008/my_old_baby.jpg" alt="My lovely Saab"> </p>
+<p><img src="/travel/images008/my_old_baby.jpg" alt="My lovely Saab"> </p>
 
 <p>After the purchase of the Cherokee fell through, I started
 looking around for something else. I needed wheels, and when I went
@@ -33,7 +33,7 @@ floor between the two seats. But it has definitely grown on me.</p>
 
 <h5>New York, New York</h5>
 
-<p><img src="images008/lady_liberty.jpg" alt="My arm is getting tired"></p>
+<p><img src="/travel/images008/lady_liberty.jpg" alt="My arm is getting tired"></p>
 
 <p>Sian and I headed off to New York for the weekend. It was a bit
 of a spur of the moment travel decision. Just something different
@@ -55,7 +55,7 @@ In fact, when we were landing I wondered whether it was such a
 smart idea to visit. All over the place I could see patches of
 frost or even snow. Brrrr....<br clear="all">
 <br>
-<img src="images008/manhatten.jpg"alt="The famous New York skyline"></p>
+<img src="/travel/images008/manhatten.jpg"alt="The famous New York skyline"></p>
 
 <h5>Dublin</h5>
 
@@ -71,7 +71,7 @@ feel a little guilty that I've been to Dublin, but all I've seen is
 the inside of several pubs. I guess that makes it a typical Dublin
 experience...</p>
 
-<p><img src="images008/the_morning_after.jpg" alt="The morning after"><br/>The morning after!</p>
+<p><img src="/travel/images008/the_morning_after.jpg" alt="The morning after"><br/>The morning after!</p>
 
 
 <p>But then it was back to Dubai once again.</p>
@@ -91,7 +91,7 @@ high. I mean, I could fly to New Zealand from London, return,
 twice, and it would still cost less than hiring the car for a day.
 Arrghh!</p>
 
-<p><img src="images008/360modena.jpg" alt=
+<p><img src="/travel/images008/360modena.jpg" alt=
 "A gorgeous car!"></p>
 
 <p>Still. Damn tempting!</p>
@@ -122,7 +122,7 @@ border="0" height="120" id="salindra" name="salindra" src=
 "images008/rizan1.gif" width="91" alt="Rizan"></a>&nbsp; -Rizan <a
 href="number008.html" onmouseout="rizni.src=rizni1.src;"
 onmouseover="rizni.src=rizni2.src;" target="_self"><img border="0"
-height="120" id="rizni" name="rizni" src="images008/rizni1.gif"
+height="120" id="rizni" name="rizni" src="/travel/images008/rizni1.gif"
 width="90" alt="Rizni"></a> -Rizni</p>
 
 <h5>Ready to move - Where to next?</h5>
@@ -168,7 +168,7 @@ tiptronic, silver with black sport interior (leather bucket seats
 and graphite trim), 17" alloys, blahblahblah... So, while I was
 hot, I took that out for a quick squirt.</p>
 
-<p><img src="images008/my_new_baby.jpg" alt="Ain't she beautiful!"></p>
+<p><img src="/travel/images008/my_new_baby.jpg" alt="Ain't she beautiful!"></p>
 
 <p>What a lovely car. Now, while I was daydreaming about buying
 one, I wasn't really that serious. It's a lot of money for a
@@ -196,16 +196,16 @@ as much as possible. Play a little tennis, read a few books...</p>
 
 if (document.images)
 {
-    dave1=new Image(); dave1.src="images008/dave1.gif";
-    dave2=new Image(); dave2.src="images008/dave2.gif";
-    rizan1=new Image(); rizan1.src="images008/rizan1.gif";
-    rizan2=new Image(); rizan2.src="images008/rizan2.gif";
-    rizni1=new Image(); rizni1.src="images008/rizni1.gif";
-    rizni2=new Image(); rizni2.src="images008/rizni2.gif";
-    salindra1=new Image(); salindra1.src="images008/salindra1.gif";
-    salindra2=new Image(); salindra2.src="images008/salindra2.gif";
-    satinder1=new Image(); satinder1.src="images008/satinder1.gif";
-    satinder2=new Image(); satinder2.src="images008/satinder2.gif";
+    dave1=new Image(); dave1.src="/travel/images008/dave1.gif";
+    dave2=new Image(); dave2.src="/travel/images008/dave2.gif";
+    rizan1=new Image(); rizan1.src="/travel/images008/rizan1.gif";
+    rizan2=new Image(); rizan2.src="/travel/images008/rizan2.gif";
+    rizni1=new Image(); rizni1.src="/travel/images008/rizni1.gif";
+    rizni2=new Image(); rizni2.src="/travel/images008/rizni2.gif";
+    salindra1=new Image(); salindra1.src="/travel/images008/salindra1.gif";
+    salindra2=new Image(); salindra2.src="/travel/images008/salindra2.gif";
+    satinder1=new Image(); satinder1.src="/travel/images008/satinder1.gif";
+    satinder2=new Image(); satinder2.src="/travel/images008/satinder2.gif";
 }
 
 </script>

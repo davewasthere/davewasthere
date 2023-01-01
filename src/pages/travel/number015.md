@@ -30,10 +30,10 @@ about Aus or South Africa) is a delicious golden crunchy biscuit, whereas
 name is similar) is actually just unappealing recycled paper briquettes.</p>
 
 
-<p><img border="0" src="images015/DSC00076.jpg" alt="The contenders for the weet-bix crown"><em>The contenders for the weet-bix crown</em></p>
+<p><img border="0" src="/travel/images015/DSC00076.jpg" alt="The contenders for the weet-bix crown"><em>The contenders for the weet-bix crown</em></p>
 
-<p><img border="0" src="images015/DSC00074.jpg" alt="Sunny-Bisk (rear) vs Weet-Bix (front)"><em>Sunny-Bisk (rear) vs Weet-Bix (front)</em></p>
-<p><img border="0" src="images015/DSC00072.jpg" alt="Weetabix (rear) vs Weet-Bix (front)"><em>Weetabix (rear) vs Weet-Bix (front)</em></p>
+<p><img border="0" src="/travel/images015/DSC00074.jpg" alt="Sunny-Bisk (rear) vs Weet-Bix (front)"><em>Sunny-Bisk (rear) vs Weet-Bix (front)</em></p>
+<p><img border="0" src="/travel/images015/DSC00072.jpg" alt="Weetabix (rear) vs Weet-Bix (front)"><em>Weetabix (rear) vs Weet-Bix (front)</em></p>
 
 
 <p>
@@ -44,7 +44,7 @@ you compare it to Weet-Bix brought from home.</p>
 <h3>A smattering of snow</h3>
 
 <p>
-<img border="0" src="images015/DSC00121.jpg"></p>
+<img border="0" src="/travel/images015/DSC00121.jpg"></p>
 
 <p>
 We had some great weather at the start of the year, as you can see. It doesn't 
@@ -55,7 +55,7 @@ the first few hours... After the first day though, most of the snow turns into a
 <h3>Sat and Rachel's Wedding</h3>
 
 <p>
-<img border="0" src="images015/DSC00209.jpg"></p>
+<img border="0" src="/travel/images015/DSC00209.jpg"></p>
 
 <p>
 My last update I'd written about Sat's stag weekend, which was a great laugh. 
@@ -70,7 +70,7 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
 <h3>Transit of Venus</h3>
 
 <p>
-<img border="0" src="images015/DSC00386.jpg">I
+<img border="0" src="/travel/images015/DSC00386.jpg">I
     had some great fun with the transit of venus. I rigged up a solar filter and a makeshift
     telescope so I could videotape the transit. The quality was pretty poor, but not
     that bad when you consider how bad my setup was.</p>
@@ -85,7 +85,7 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
 <h3>Vegas</h3>
 
 <p>
-<img border="0" src="images015/DSC00399.jpg">&nbsp;</p>
+<img border="0" src="/travel/images015/DSC00399.jpg">&nbsp;</p>
     <p>
         Perhaps
     it was a little stupid, but straight after
@@ -110,7 +110,7 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
 
 <h3>San Diego</h3>
 
-<p><img border="0" src="images015/DSC00425.jpg"></p>
+<p><img border="0" src="/travel/images015/DSC00425.jpg"></p>
 <p>After
     Vegas, San Diego was a nice bit of reality. It's a very pretty place. I could live
     there quite comfortably. <a href="http://www.benihana.com">Benihana</a> was a good
@@ -121,7 +121,7 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
         The weather wasn't particularly good though. One waitress called it the June-Gloom.</p>
 
 <h3>Los Angeles</h3>
-<p><img border="0" src="images015/DSC00472.jpg"></p>
+<p><img border="0" src="/travel/images015/DSC00472.jpg"></p>
 <p>I
     don't know what to say about LA. It's massive. It's great to see so many places
     that you can recognise from the movies. Again, we didn't really spend much time
@@ -148,7 +148,7 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
 
 <h3>Dodgy Advertising in UK</h3>
 
-<p><img border="0" src="images015/DSC00689.jpg"></p>
+<p><img border="0" src="/travel/images015/DSC00689.jpg"></p>
 <p>I
     was pretty surprised to see this photo in a vodafone store on the way home. Maybe
     I have a filthy mind or something, but I've got to wonder what they were thinking
@@ -157,8 +157,8 @@ Well, the wedding was pretty awesome too. It was held at the Barbican, which was
 <h3>I.S. Christmas Party</h3>
 
 <p>
-<img border="0" src="images015/DSC00706.jpg">
-<img border="0" src="images015/DSC00716.jpg"></p>
+<img border="0" src="/travel/images015/DSC00706.jpg">
+<img border="0" src="/travel/images015/DSC00716.jpg"></p>
     <p>
         We had a great Christmas party. The terrible threesome came in drag (again). What
         is it with those guys and dresses? It was a cowboy dress-up theme with your standard

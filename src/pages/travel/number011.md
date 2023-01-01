@@ -46,7 +46,7 @@ little spot of gliding. I've done about 7 flights and really
 enjoyed it. Although, I've been a little too busy to keep it up,
 which is a shame.</p>
 
-<p><img src="images011/dave_the_pilot.JPG" alt="Mmmm... What can I say?"><br>
+<p><img src="/travel/images011/dave_the_pilot.JPG" alt="Mmmm... What can I say?"><br>
 <b>That towing van on the right was like that before I drove it.
 Honest.</b></p>
 
@@ -74,7 +74,7 @@ it'll be damn hard to find) It's only a ten minute walk to get into
 the centre of Cheltenham, and the 24 hour Tesco is only 5-7 minutes
 away. So it's pretty convenient</p>
 
-<p><img src="images011/back_yard.JPG" alt=
+<p><img src="/travel/images011/back_yard.JPG" alt=
 "Of course it doesn't look like this NOW. The lawns need mowing, the garden needs weeding, and the flowers are all dead.">
 <br>
 <b>I don't have a decent wide angle for inside the house, but at
@@ -98,9 +98,9 @@ That is one of the problems of working at home. No social
 interaction. Liezl ended up calling me from work to see whether I'd
 heard. After that it was a very unproductive day.</p>
 
-<p><img src="images011/Southtower.jpg" alt=
+<p><img src="/travel/images011/Southtower.jpg" alt=
 "Fedex delivers right to your office!" >
-<img src="images011/wtc1.jpg" alt=
+<img src="/travel/images011/wtc1.jpg" alt=
 "Bloody big chimney stacks!"><br>
 <b>Pretty scary images. Especially if you were the insurance
 underwriter!</b></p>
@@ -157,7 +157,7 @@ than four hours worth of time zones in any given week. If I could
 I'd go by boat. Or better than that, just stop off twice for a few
 days in places like Dubai, Singapore, Los Angeles and New York.</p>
 
-<p><img src="images011/dad_in_snow.JPG" alt=
+<p><img src="/travel/images011/dad_in_snow.JPG" alt=
 "Where is my golfball?"><br>
 <b>We had a little bit of snow, but it disappeared after a day or
 two.</b></p>
@@ -203,7 +203,7 @@ tunnels you come to as you drive into Paris! I'm not sure if I've
 ever been through anything so long. 3-4km long tunnels leading
 straight into the heart of the city.</p>
 
-<p><img src="images011/pissing_down.JPG" alt=
+<p><img src="/travel/images011/pissing_down.JPG" alt=
 "At least its not raining... Oh, hang on..." ><br>
 <b>Bloody hell! Where did all this #$%&amp;*! rain come
 from?</b></p>
@@ -224,12 +224,12 @@ barrelled back to Le Havre with plenty of time to spare for the
 return crossing. This time I managed to get a bit more sleep on the
 ferry. I guess it helped being completely exhausted...</p>
 
-<p><img src="images011/eiffel_tower.JPG" alt=
+<p><img src="/travel/images011/eiffel_tower.JPG" alt=
 "Slightly more humidity than I normally like." ><br>
 <b>I'm not sure was this big antenna thing is, but it looked pretty
 neat!</b></p>
 
-<p><img src="images011/parking_skills.JPG" alt=
+<p><img src="/travel/images011/parking_skills.JPG" alt=
 "Just a little kiss." ><br>
 <b>They like to park a little more intimately in Paris.</b></p>
 
@@ -257,7 +257,7 @@ snow in Europe.</p>
 
 <p>But there was a lot of snow in Montana. And it was good. :-)</p>
 
-<p><img src="images011/big_mountain.JPG" alt=
+<p><img src="/travel/images011/big_mountain.JPG" alt=
 "Yup. Good snow alright!" ><br>
 <b>Mmmmm... That glorious powder. But remember. It wasn't as good
 as it looks. (Not worth the trip really. Don't go... Stay
@@ -282,7 +282,7 @@ Because all that great powder snow was breaking my fall. HA HA!</p>
 helped me un-stress a huge amount. (10 days in great snow has that
 effect on me)</p>
 
-<p><img src="images011/me_in_montana.JPG" alt=
+<p><img src="/travel/images011/me_in_montana.JPG" alt=
 "Did I mention how good the snow was?" ><br>
 <b>See! Don't I look relaxed?</b></p>
 
@@ -304,7 +304,7 @@ Obviously they didn't see our utter lack of skill on the slope, or
 the general unfit-flabby-untoned bodies that we possessed. Go
 figure!</p>
 
-<p><img src="images011/couple_of_beers.JPG" alt=
+<p><img src="/travel/images011/couple_of_beers.JPG" alt=
 "What a dopey expression. Glad I'm drunk." ><br>
 <b>I'm not sure, but there may have been some drinking.</b></p>
 
@@ -317,7 +317,7 @@ more deserving group of arseholes.</p>
 
 <h2><b>Itlog na maalat - Filipino salted egg</b></h2>
 
-<p><img src="images011/itlog.jpg" alt="Yummy! Thank god it isn't Balut!"></p>
+<p><img src="/travel/images011/itlog.jpg" alt="Yummy! Thank god it isn't Balut!"></p>
 
 <p>I had my first go at making Filipino salted egg. It's called
 <i>Itlog na maalat.</i> (which just means salty egg - funnily
@@ -344,8 +344,8 @@ Hamish has a job and doesn't smell too awful, so maybe it wasn't
 such a bad idea. I'll was there with my digital, so here are a few
 pictures from the experience.</p>
 
-<p><img src="images011/h_s_getting_ready.jpg" alt="Noooooooo!!!! Don't do it.... (good luck)">
-<img src="images011/h_s_done_the_deed.jpg" alt="Don't they look the lovely couple?"> <img src="images011/h_s_out_of_the_boot.JPG" alt="Remember to pour me one Jackass!"></p>
+<p><img src="/travel/images011/h_s_getting_ready.jpg" alt="Noooooooo!!!! Don't do it.... (good luck)">
+<img src="/travel/images011/h_s_done_the_deed.jpg" alt="Don't they look the lovely couple?"> <img src="/travel/images011/h_s_out_of_the_boot.JPG" alt="Remember to pour me one Jackass!"></p>
 
 <p>T'was a jolly good day, and we even got some nice sun for the
 champers out in the car park. The dinner was absolutely delicious.
@@ -364,7 +364,7 @@ far (302). Most players I play against come from Belgium, Germany,
 Sweden, France or the UK. But it's nice when a wee lad from
 Kiwi-land whips their puny butts!</p>
 
-<p><img src="images011/rtcwhighscore_302.jpg" alt=
+<p><img src="/travel/images011/rtcwhighscore_302.jpg" alt=
 "Wow. That Womble is pretty evil with an MP40."></p>
 
 <p>There is a new game out called Medal of Honour - Allied Assault
@@ -381,7 +381,7 @@ rich. Point them my way. That said, it is a bit sad to see it go. I
 haven't had any nibbles yet, but I've only had it advertised a
 week.</p>
 
-<p><img src="images011/for_sale_cheep.JPG" alt="FOR SALE - CHEEP!"><br>
+<p><img src="/travel/images011/for_sale_cheep.JPG" alt="FOR SALE - CHEEP!"><br>
 <b>FOR SALE - CHEEP!</b></p>
 
 <p>Still, I won't be too bothered if it doesn't sell. Summer's

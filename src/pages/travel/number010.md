@@ -36,7 +36,7 @@ built kit cars and stuff. It flew through that, although I did have
 to fork out &pound;1400 on new headlights. (hang on, <b>that</b> is
 why I am broke!)</p>
 
-<p><img src="images010/my_baby.jpg" alt=
+<p><img src="/travel/images010/my_baby.jpg" alt=
 "The headlight that cost so much!" ></p>
 
 <p>How does that saying go? If it has wheels or a skirt, you can't
@@ -177,7 +177,7 @@ marriage, selling drugs or performing sorcery)</p>
 <p>While the following newspaper clipping is about an execution in
 Tehran, similar executions are carried out in this country.</p>
 
-<p><img src="images010/news_clipping.gif" alt="Justice in the middle-east"><br>
+<p><img src="/travel/images010/news_clipping.gif" alt="Justice in the middle-east"><br>
 <b>Excerpt from the local paper (courtesy Gulf News)</b></p>
 
 <p>Overall it is a pretty safe country though. It's just I think
@@ -201,7 +201,7 @@ I'm not sure, but I think the sole purpose of the trip was to go
 back to the UK with envy-inducing tans. They certainly spent enough
 time on the beach lapping up the sun!</p>
 
-<p><img src="images010/beach_bunnies.jpg" alt="Hamish and Sarita try out the arabian gulf"><br>
+<p><img src="/travel/images010/beach_bunnies.jpg" alt="Hamish and Sarita try out the arabian gulf"><br>
 <b>Hamish and Sarita enjoying a quick dip just before being rushed
 to hospital for sunstroke (joke!)</b></p>
 
@@ -212,7 +212,7 @@ displayed her 'Abu Sayyaf'-like qualities with a bit of incredibly
 sharp shooting. (Remind me not to piss her off if she is packing
 heat)</p>
 
-<p><img src="images010/the_gunslingers.jpg" alt=
+<p><img src="/travel/images010/the_gunslingers.jpg" alt=
 "Abu Sayeff representitive with three New Zealand recruits"><br>
 <b>Charlie's angels wannabes at the Umm Al Quain gun club. (Dig the
 AK-47 Sarita!)</b></p>
@@ -229,7 +229,7 @@ it is made in Israel, it has been put away while the current
 conflict is on. (Shame)</p>
 
 <p>
-<img src="images010/shooting_results.jpg" alt=
+<img src="/travel/images010/shooting_results.jpg" alt=
 "Targetresults" ><br>
 <b>Our dead targets after we'd blown them away!</b></p>
 
@@ -252,7 +252,7 @@ had the Porsche), but the view was still pretty reasonable. We
 managed to catch some of the fading light to get a bit of a look
 around, but it did get dark very quickly.</p>
 
-<p><img src="images010/dave_liezl_jebel_hafeet.jpg" alt=
+<p><img src="/travel/images010/dave_liezl_jebel_hafeet.jpg" alt=
 "Liezl and I at the top of Jebel Hafeet" ><br>
 <b>Liezl and I at the top of Jebel Hafeet (in Al Ain)</b></p>
 
