@@ -50,8 +50,8 @@ which is a shame.</p>
 <b>That towing van on the right was like that before I drove it.
 Honest.</b></p>
 
-<p><a href="images011/my_takeoff.mpg"><img src=
-"images011/gliding_movie.jpg" alt=
+<p><a href="/travel/images011/my_takeoff.mpg"><img src=
+"/travel/images011/gliding_movie.jpg" alt=
 "Click here for the video."></a><br>
 <b>Click on the picture to see 'Dave the pilot' in action. I was at
 the controls for this takeoff. (142kbytes)</b></p>

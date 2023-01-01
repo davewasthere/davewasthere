@@ -111,15 +111,15 @@ something like 98% feature complete.</p>
 onmouseout="satinder.src=satinder1.src;" onmouseover=
 "satinder.src=satinder2.src;" target="_self"><br>
 <img border="0" height="120" id="satinder" name="satinder" src=
-"images008/satinder1.gif" width="97" alt="Sat"></a> -Satinder <a
+"/travel/images008/satinder1.gif" width="97" alt="Sat"></a> -Satinder <a
 href="number008.html" onmouseout="salindra.src=salindra1.src;"
 onmouseover="salindra.src=salindra2.src;" target="_self"><img
 border="0" height="120" id="salindra" name="salindra" src=
-"images008/salindra1.gif" width="86" alt="Salindra"></a>
+"/travel/images008/salindra1.gif" width="86" alt="Salindra"></a>
 &nbsp;-Salindra <a href="number008.html" onmouseout=
 "rizan.src=rizan1.src;" onmouseover="rizan.src=rizan2.src;" target=
 "_self"><img border="0" height="120" id="rizan" name="rizan" src=
-"images008/rizan1.gif" width="91" alt="Rizan"></a>&nbsp; -Rizan <a
+"/travel/images008/rizan1.gif" width="91" alt="Rizan"></a>&nbsp; -Rizan <a
 href="number008.html" onmouseout="rizni.src=rizni1.src;"
 onmouseover="rizni.src=rizni2.src;" target="_self"><img border="0"
 height="120" id="rizni" name="rizni" src="/travel/images008/rizni1.gif"
