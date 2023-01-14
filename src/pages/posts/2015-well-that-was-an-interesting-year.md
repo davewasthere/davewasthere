@@ -6,12 +6,18 @@ date: '2016-01-01'
 published: false
 ---
 
+Ever since my Taiwan trip, I've been addicted to pomelo. I can't explain why, but I just can't get enough of the fruit. Unfortunately it's both rare and crazy expensive here in Bendigo, so I've bought a couple of pomelo plants and started growing my own.
+
+I did try germinating seeds, and had several plants on the go. But the summers here are crazy hot and I didn't have a good enough watering system while we were away for holidays, so they ended up drying out. Also, I don't think pomelo grows true to seed (you need to graft), but it's still a fun experiment.
+
 <figure class="image">
 <img src="/travel/2015/pomelo.jpg" />
 <figcaption>In only a short six or seven years, this might grow pomelos</figcaption>
 </figure>
 
 ## Pickle arrives
+
+As well as germinating pomelo seeds, something else has been germinating. Pickle, the new addition to our family arrived early Feb.
 
 <figure class="image">
 <img src="/travel/2015/pickle-arrives.jpg" />
@@ -97,7 +103,7 @@ published: false
 
 <figure class="image">
 <img src="/travel/2015/bkk-kana-moo-grob.jpg" />
-<figcaption>I could live on this stuff almost</figcaption>
+<figcaption>I could live on this stuff almost - this was a meal in Bangkok</figcaption>
 </figure>
 
 <figure class="image">
