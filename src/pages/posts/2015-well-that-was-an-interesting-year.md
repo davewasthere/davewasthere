@@ -10,9 +10,9 @@ Started the year off in Haven VIC, with a bub on the way and potentially another
 
 With Pickle due imminently, and the flat in the UK needing thinking about (either sell it, or possibly move back there with the girls for a bit), I wasn't in a rush to find other work initially. Still have a few side project ideas, and was still mulling over an investment idea in Rarotonga, but mostly was waiting to see what sort of impact having a baby would have on my life first.
 
-I did interview for a short term role in Melbourne, but amusingly didn't get it. I think the feedback was that I'd obviously done a lot of projects, but that I fumbled over the terminology they wanted to hear. Which is sort of amusing, but not the first time I've come across this. (Last time was with an insurer, and I'd never worked in contract-first WCF development)  So apparently "Smart and gets things done" didn't quite cut it in these circumstances. I'm not too stressed though. Have a good safety net, and these things have a tendency of working out.
+I did interview for a short term role in Melbourne, but was a little surprised I didn't get it (first time that's happened in a while!). I think the feedback was that I'd obviously done a lot of projects, but that I fumbled over the terminology they wanted to hear. Which is sort of amusing, but not the first time I've come across this. (Last time was with an insurer, and I'd never worked in contract-first WCF development)  So apparently "Smart and gets things done" didn't quite cut it in these circumstances. I'm not too stressed though. Have a good safety net, and these things have a tendency of working out.
 
-Started exploring a lot more around Bendigo on the new pushbike. There's tons of amazing bike trails, but I quickly found that you need some serious tyres to handle the crap that's lying around. There's these sort of prickle things that are scattered all around that just punch holes through ordinary tyres, so I ordered a pair of Gatorskins which are near indestructible.
+Started exploring a lot more around Bendigo on the new (for me) bike. There's tons of amazing bike trails, but I quickly found that you need some serious tyres to handle the crap that's lying around. There's these sort of prickle things that are scattered all around that just punch holes through tyres, so I quickly ordered some replacements to keep me on the road.
 
 I also interviewed (and was offered the position) for a small company role here in Bendigo, but the pay and conditions were pretty awful. No flexibility (which would suck with a child on the way) and would have been my lowest pay in 15+ years. However I really liked the team and the product, but the salary was laughable, so I'd rather keep my options open.
 
@@ -58,6 +58,8 @@ An ex-Airforce mate down in Melbourne was getting married, so the girls got to g
 A trip to SA ended up being our first out-of-state trip this year. We had hoped to drive up and see my cousins in Surfers, but Michelle had her car backed into in a car park, and the guy left false details, so had to get that sorted out, which put the kibosh on that idea.
 Bonus about SA is our respective sisters both live there, so the kids got to see cousins from both sides.
 
+We'd also hoped to get back to my step-sister's wedding in Auckland, but getting a passport for Pickle in a timely manner ended up being impossible.
+
 <figure class="image">
 <img src="/travel/2015/adelaide-gardens.jpg" />
 <figcaption>Cousins catch up at Adelaide Botanic Gardens</figcaption>
@@ -78,7 +80,7 @@ I needed to head back to the UK to sort out the flat, and most of the Beer famil
 
 Got a job offer of sorts in Darwin. I was chatting to a guy who ran a company locally who was talking about how hard it was to get staff there and that they'd literally hire anyone who turned up and was smart &amp; capable. Will keep it in mind, for sure.
 
-Next leg of the flight was to Manila. I was just doing an overnight and mostly I was focussed on eating as much as possible. I was only staying in Makati, but pretty sure my taxi driver took the long way around. But traffic was pretty horrendous and fairly stationary. At one point I just hopped out and walked the remaining 1.5km to the hotel. I was pretty tired, but I was also pretty sure I'd get there faster on foot. Went for dinner at a BBQ joint I knew have a few San Migs listening to live music, but it was the breakfasts I was most keen on.
+Next leg of the flight was to Manila. I was just doing an overnight and mostly I was focussed on eating as much as possible. I was only staying in Makati, but pretty sure my taxi driver took the long way around. But traffic was pretty horrendous and fairly stationary. At one point I just hopped out and walked the remaining 1.5km to the hotel. I was pretty tired, but I was also pretty sure I'd get there faster on foot. Went for dinner at a BBQ joint I knew, downing a few San Migs while listening to live music, but it was the breakfasts I was most keen on.
 
 <figure class="image">
 <img src="/travel/2015/tocilog.jpg" />
@@ -96,11 +98,9 @@ It's funny returning back after several months away. There's always a huge pile 
 <figcaption>Six+ months of mail</figcaption>
 </figure>
 
-Fortunately, none of it super crucial, but I do have a lot to sort through and need to get some sort of forwarding/scanning service set up, as it looks like this could be it for my UK trips for a while.
+Fortunately, none of it super crucial as most things are on autopilot, but I do have a lot to sort through and need to get some sort of forwarding/scanning service set up, as it looks like this could be it for my UK trips for a while.
 
-Got into the rythmn of things pretty quickly.
-
-Caught up with a couple of mates (saw my godsons) and was also fortunate enough to make it for Heather's 50th birthday, which was a great weekend event.
+Got into the rythmn of things pretty quickly. Caught up with a couple of mates (saw my godsons) and was also fortunate enough to make it for Heather's 50th birthday, which was a great weekend event.
 
 <figure class="image">
 <img src="/travel/2015/heathers-50th.jpg" />
@@ -123,6 +123,8 @@ God! I forgot how terrible it is to sell stuff. Flakers, people who don't turn u
 <img src="/travel/2015/vehicles.jpg" />
 <figcaption>Sad to see them go, but it's time</figcaption>
 </figure>
+
+Managed to get a good price for the Boxster, and was able to use it until one of the last few days I was there. My bike was a little more painful to sell, but left it to be sold on commission at one of the local dealers. Wasn't the best option, but convenience won out in the end.
 
 Even after giving away as much as I could, I still ended up with something like 43 boxes heading back to Aus. If I got rid of all my books and computer bits, then you could probably halve that number, but I wasn't ready to do that.
 
@@ -175,14 +177,14 @@ Then with some string and a couple of sticks, you can make some pretty epic bubb
 <figcaption>Awesome recipe for massive bubbles</figcaption>
 </figure>
 
-While down in Melbourne visiting a mate, I managed to pick up a sweet set of clubs from the local charity shop. Michelle's Dad and I have been heading out for a hit occasionally, and it's nice to have my own clubs while I'm waiting for my UK set of Pings to arrive.
+While down in Melbourne visiting a mate, I managed to pick up a sweet set of clubs from the local charity shop. Michelle's Dad and I have been heading out for a hit occasionally, and it's nice to have my own clubs while I'm waiting for my UK set of Pings to arrive. I'm considering joining one of the local clubs and getting out for a hit regularly... but we'll see.
 
 <figure class="image">
 <img src="/travel/2015/golf-horsham.jpg" />
 <figcaption>Always lovely getting out for a hit in Horsham</figcaption>
 </figure>
 
-One of my little side projects I've had in mind, is making some large chess pieces. There's a chess board at the botanical gardens, and I've often thought some concrete pieces would be just brilliant.
+One of my little side projects I've had in mind, is making some large chess pieces. There's a chess board at the botanic gardens, and I've often thought some concrete pieces would be just brilliant.
 
 So I've started sketching up some designs, and will be making some moulds to cast them in concrete. I'm thinking of making them about 30cm high, and 15cm wide. I'll probably make a couple of sets and just donate one to the garden.
 
@@ -195,7 +197,7 @@ Markets are a huge thing around Regional Vic. Maldon is a lovely one held the se
 
 <figure class="image">
 <img src="/travel/2015/maldon.jpg" />
-<figcaption>Maldon shopping</figcaption>
+<figcaption>Maldon shopping after the local market. They've even got a Christmas shop!</figcaption>
 </figure>
 
 We've had a bit of nastiness in Bendigo lately. A new mosque is being built, and the right-wing nutters have been out in force. Fortunately, the police presence has been pretty good, and the protests have been pretty small.
@@ -216,7 +218,7 @@ During part of our regional Vic explorations, I spotted a Concentrated Solar Pow
 
 ## Leunig talk
 
-Went to see Michael Leunig give a talk at The Capital. Was a really warm and funny event. One of the most enjoyable events I've been to.
+Went to see Michael Leunig give a talk at The Capital. Was a really warm and funny affair. One of the most enjoyable events I've been to.
 
 <figure class="image">
 <img src="/travel/2015/leunig.jpg" />
@@ -244,21 +246,21 @@ Had a cool party at the Discovery centre, which was basically bubbles and goo. T
 
 All my crap arrived, so it looks like this is my new home now. We also moved out of Michelle's 2-bed flat, and into a 3-bed house. It's still a bit of a squeeze, but it's nice to have a bit more space. That said, it was gutting to leave the neighbours behind, as they were utterly awesome.
 
-There's a decent amount of space, but have bought a desk to setup a little office in the smallest room, but will also build some custom shelving to make the most of the space.
+There's probably just enough space for us, and I've bought a desk to setup a little office, but will also build some custom shelving to make the most of the room (and somewhere to house my copious quantities of books).
 
 <figure class="image">
 <img src="/travel/2015/melbourne-night.jpg" />
 <figcaption>Melbourne by night</figcaption>
 </figure>
 
-We headed down to Melbourne to catch up with with one of Michelle's friends, as well as eat yummy food at Taste of Melbourne food festival.
+We headed down to Melbourne to catch up with with one of Michelle's friends, as well as eat yummy food at the 'Taste of Melbourne' food festival.
 
 <figure class="image">
 <img src="/travel/2015/melbourne.jpg" />
 <figcaption>Melbourne by day</figcaption>
 </figure>
 
-And after a very packed year, it was nice to just chill out and relax for a bit. Back to Haven for a typical Aussie Christmas. Heat and BBQs, swimming and Christmas lights, presents and family.
+And after a very packed year, it was nice to just chill out and relax for a bit. Back to Haven for a typical Aussie Christmas. Hot days and BBQs, swimming and Christmas lights, presents and family.
 
 <figure class="image">
 <img src="/travel/2015/christmas-ride.jpg" />
