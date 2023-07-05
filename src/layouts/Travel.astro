@@ -23,6 +23,7 @@ const prevPost = posts[currentIndex + 1];
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{frontmatter.title}</title>
+		<meta name="description" content={frontmatter.description} />
 	</head>
 	<body>
 		<header>
@@ -106,5 +107,8 @@ const prevPost = posts[currentIndex + 1];
 	}
 	.prevPost {
 		border-right: 0.25rem solid #f6f6f6;
+	}
+	figcaption{
+		font-style: italic;
 	}
 </style>

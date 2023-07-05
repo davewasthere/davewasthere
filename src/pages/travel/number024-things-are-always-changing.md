@@ -39,7 +39,7 @@ date: '2011-09-12'
             well as an amazing board, so I had to make the opposing half. Ended up brazing 
             pieces of bronze together with silver solder to create my pieces and was really 
             chuffed with how they turned out.</p>
-        <p><img src="https://i.imgur.com/mDirCTkl.jpg" alt="The knight is always my favourite piece to make" /></p>
+        <p><img src="/travel/images/knight.jpg" alt="The knight is always my favourite piece to make" /></p>
         <p>One of my favourite things was learning how to arc weld. I ended up making a name 
             plaque for someone I cared about. I&#39;ve since seen some signs made in the same 
             style, but I really had a blast making it. Still feel the need to do more 
