@@ -76,7 +76,7 @@ it was just superb in the other direction!
 
 
 <div style="width: 100%; padding-top: 75%; position: relative;">
-    <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/gA8elD9i0_g" frameborder="0" allowfullscreen></iframe>
+    <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/gA8elD9i0_g" frameborder="0" allowfullscreen noindex></iframe>
 </div>
 
 <p>Later on, after the Police had left, a few guys braved the larger swell. Everyone 
